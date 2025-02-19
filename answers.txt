@@ -5,3 +5,8 @@ Answer: It's a powerful version control system that allows you to effectively tr
 Q2: What field could data science be applied to? Give an Example.
 
 Answer: Finance
+
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merging combines changes from multiple branches into a single branch, while rebasing moves a branch onto another branch.
